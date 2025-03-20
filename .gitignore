@@ -1,0 +1,8 @@
+ios/Pods
+ios/Podfile.lock
+ios/build
+ios/.xcode.env.local
+ios/*.xcworkspace
+
+node_modules/
+yarn.lock
